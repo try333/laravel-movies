@@ -1,4 +1,4 @@
-Demo : <a href="https://larax-movies.port333.site" target="_blank">larax-movies.port333.site</a>
+Demo : <a href="http://movie-app.projekx.my.id/" target="_blank">http://movie-app.projekx.my.id/</a>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
